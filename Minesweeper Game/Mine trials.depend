@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606540076 source:c:\users\8916\desktop\new folder\mine trials\main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
